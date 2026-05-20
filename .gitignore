@@ -1,0 +1,52 @@
+# =========================
+# Secrets / Credentials
+# =========================
+
+.env
+secrets.h
+config.py
+credentials.json
+
+# WiFi / MQTT credentials
+wifi_config.h
+mqtt_config.h
+
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+.venv/
+
+# =========================
+# Arduino / ESP32
+# =========================
+
+*.bin
+*.elf
+*.map
+
+# =========================
+# VSCode
+# =========================
+
+.vscode/
+
+# =========================
+# OS Files
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temp
+# =========================
+
+temp/
+tmp/
