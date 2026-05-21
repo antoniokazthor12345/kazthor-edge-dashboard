@@ -163,3 +163,7 @@ Antonio Kazthor
 
 GitHub:
 https://github.com/antoniokazthor12345
+
+## 🌐 Live Dashboard
+
+https://antoniokazthor12345.github.io/kazthor-edge-dashboard/
