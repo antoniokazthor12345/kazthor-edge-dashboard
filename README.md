@@ -1,7 +1,7 @@
 # KAZTHOR EDGE — ETS2 IoT Telemetry System
 
 <p align="center">
-  <img src="./docs/img/Dash2.png" width="900"/>
+  <img src="./docs/img/ESP1.png" width="900"/>
 </p>
 
 <p align="center">
@@ -118,6 +118,13 @@ ESP32 + OLED + Dashboard
   <img src="./docs/img/ESP1.png" width="700"/>
 </p>
 
+<p align="center">
+  <img src="./docs/img/DIY.jpg" width="700"/>
+</p>
+
+<p align="center">
+  <img src="./docs/img/DIY2.png" width="700"/>
+</p>
 ---
 
 ## 🚀 Future Plans
